@@ -1,6 +1,6 @@
 # python-dependency-list
 
-A primitive library for finding dependencies in a python project.
+A primitive library for finding external dependencies of a python project.
 
 **Usage:** `python deplst.py pwd` where `pwd` is the root path to the folder containing the python project. The code will:
 
